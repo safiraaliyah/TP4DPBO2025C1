@@ -118,3 +118,8 @@ Program menggunakan `GridBagLayout` untuk mengatur tata letak komponen GUI. `Gri
 
 ### Dokumentasi Program
 
+![Image](https://github.com/user-attachments/assets/730ee532-d290-475a-a35d-265e29e99756)
+
+![Image](https://github.com/user-attachments/assets/d3e99a2e-505e-47c0-ab3f-f936331b9e01)
+
+![Image](https://github.com/user-attachments/assets/185e0220-ee01-4924-aecc-2ea70771db98)
